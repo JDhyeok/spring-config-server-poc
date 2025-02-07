@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: test
+  profiles:
+    active: dev
+
+test:
+  poc: 123123123
